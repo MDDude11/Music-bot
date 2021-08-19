@@ -10,7 +10,7 @@ module.exports = {
     discord: {
         token: 'ODc3NTgzMTk1Nzg3MzY2NDkw.YR0vCg.pIP0Dr9Dsnw_8cXHXleABLRK-OA',
         prefix: '&!',
-        activity: 'ACTIVITY',
+        activity: 'Playing M Shoot',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
